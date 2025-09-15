@@ -1,0 +1,261 @@
+{
+  "id": "web-dev-complete-guide",
+  "slug": "web-development-complete-guide",
+  "title": "The Complete Web Development Bootcamp 2024",
+  "subtitle": "Learn HTML, CSS, JavaScript, React, Node.js, MongoDB, and more! Build 10+ real-world projects.",
+  "description": "This comprehensive web development course will take you from absolute beginner to job-ready developer. You'll learn all the essential technologies used in modern web development including HTML5, CSS3, JavaScript ES6+, React, Node.js, Express, MongoDB, and much more. By the end of this course, you'll have built 10+ real-world projects and have a portfolio that will impress employers.",
+  "shortDescription": "Master web development from scratch with this comprehensive bootcamp. Learn HTML, CSS, JavaScript, React, Node.js, and build real projects.",
+  "instructor": {
+    "id": "sarah-chen",
+    "name": "Sarah Chen",
+    "title": "Senior Full-Stack Developer & Tech Lead",
+    "image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+    "rating": 4.8,
+    "studentsCount": 125000,
+    "coursesCount": 12,
+    "bio": "Sarah is a senior full-stack developer with over 8 years of experience building scalable web applications. She has worked at top tech companies including Google and Microsoft, and has helped over 100,000 students learn web development.",
+    "socialLinks": {
+      "website": "https://sarahchen.dev",
+      "linkedin": "https://linkedin.com/in/sarahchen",
+      "twitter": "https://twitter.com/sarahchen_dev"
+    }
+  },
+  "rating": {
+    "average": 4.7,
+    "count": 15420,
+    "distribution": {
+      "5": 65,
+      "4": 25,
+      "3": 7,
+      "2": 2,
+      "1": 1
+    }
+  },
+  "studentsCount": 125000,
+  "lastUpdated": "2024-01-15",
+  "language": "English",
+  "level": "Beginner",
+  "category": "Web Development",
+  "subcategory": "Full-Stack Development",
+  "tags": ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB", "Web Development", "Programming"],
+  "badges": ["Bestseller", "New"],
+  "price": {
+    "current": 89.99,
+    "original": 199.99,
+    "currency": "USD"
+  },
+  "includes": {
+    "hours": 45.5,
+    "articles": 25,
+    "downloadableResources": 150,
+    "access": "Lifetime",
+    "certificate": true
+  },
+  "whatYoullLearn": [
+    "Build responsive websites using HTML5 and CSS3",
+    "Master JavaScript ES6+ and modern programming concepts",
+    "Create interactive web applications with React",
+    "Build RESTful APIs with Node.js and Express",
+    "Work with databases using MongoDB and Mongoose",
+    "Implement authentication and authorization",
+    "Deploy applications to cloud platforms",
+    "Use Git and GitHub for version control",
+    "Apply best practices for code organization and testing",
+    "Build a complete portfolio of real-world projects"
+  ],
+  "requirements": [
+    "No programming experience needed - we'll start from scratch",
+    "A computer with internet connection",
+    "Willingness to learn and practice regularly",
+    "Basic computer skills (opening files, using a web browser)"
+  ],
+  "curriculum": [
+    {
+      "id": "getting-started",
+      "title": "Getting Started with Web Development",
+      "duration": 120,
+      "lectures": [
+        {
+          "id": "intro-to-web-dev",
+          "title": "Introduction to Web Development",
+          "duration": 15,
+          "type": "video",
+          "isPreview": true,
+          "description": "Overview of web development and what you'll learn in this course"
+        },
+        {
+          "id": "setting-up-environment",
+          "title": "Setting Up Your Development Environment",
+          "duration": 20,
+          "type": "video",
+          "isPreview": false,
+          "description": "Install and configure VS Code, Node.js, and essential tools"
+        },
+        {
+          "id": "how-web-works",
+          "title": "How the Web Works",
+          "duration": 25,
+          "type": "video",
+          "isPreview": false,
+          "description": "Understanding HTTP, browsers, servers, and the client-server model"
+        }
+      ]
+    },
+    {
+      "id": "html-fundamentals",
+      "title": "HTML5 Fundamentals",
+      "duration": 180,
+      "lectures": [
+        {
+          "id": "html-basics",
+          "title": "HTML Basics and Document Structure",
+          "duration": 30,
+          "type": "video",
+          "isPreview": true,
+          "description": "Learn the foundation of HTML and semantic markup"
+        },
+        {
+          "id": "html-elements",
+          "title": "HTML Elements and Attributes",
+          "duration": 45,
+          "type": "video",
+          "isPreview": false,
+          "description": "Master all essential HTML elements and their attributes"
+        },
+        {
+          "id": "html-forms",
+          "title": "HTML Forms and Input Types",
+          "duration": 40,
+          "type": "video",
+          "isPreview": false,
+          "description": "Create interactive forms with various input types"
+        },
+        {
+          "id": "html-semantic",
+          "title": "Semantic HTML and Accessibility",
+          "duration": 35,
+          "type": "video",
+          "isPreview": false,
+          "description": "Write accessible and semantic HTML code"
+        }
+      ]
+    },
+    {
+      "id": "css-styling",
+      "title": "CSS3 Styling and Layout",
+      "duration": 240,
+      "lectures": [
+        {
+          "id": "css-basics",
+          "title": "CSS Basics and Selectors",
+          "duration": 35,
+          "type": "video",
+          "isPreview": true,
+          "description": "Introduction to CSS and how to style HTML elements"
+        },
+        {
+          "id": "css-box-model",
+          "title": "CSS Box Model and Layout",
+          "duration": 50,
+          "type": "video",
+          "isPreview": false,
+          "description": "Understand the box model and basic layout principles"
+        },
+        {
+          "id": "css-flexbox",
+          "title": "Flexbox Layout",
+          "duration": 45,
+          "type": "video",
+          "isPreview": false,
+          "description": "Master modern CSS layout with Flexbox"
+        },
+        {
+          "id": "css-grid",
+          "title": "CSS Grid Layout",
+          "duration": 40,
+          "type": "video",
+          "isPreview": false,
+          "description": "Create complex layouts with CSS Grid"
+        },
+        {
+          "id": "css-responsive",
+          "title": "Responsive Design and Media Queries",
+          "duration": 35,
+          "type": "video",
+          "isPreview": false,
+          "description": "Make your websites work on all devices"
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review-1",
+      "author": {
+        "name": "Michael Rodriguez",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=50&h=50&fit=crop&crop=face",
+        "verified": true
+      },
+      "rating": 5,
+      "title": "Excellent course for beginners!",
+      "content": "This course is absolutely fantastic! Sarah explains everything so clearly and the projects are really practical. I went from knowing nothing about web development to building my own portfolio website. Highly recommended!",
+      "helpful": 234,
+      "date": "2024-01-10",
+      "verified": true
+    },
+    {
+      "id": "review-2",
+      "author": {
+        "name": "Emily Johnson",
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=50&h=50&fit=crop&crop=face",
+        "verified": true
+      },
+      "rating": 5,
+      "title": "Best web development course I've taken",
+      "content": "The curriculum is well-structured and the instructor is amazing. I love how she breaks down complex concepts into simple, understandable parts. The real-world projects really help solidify the learning.",
+      "helpful": 189,
+      "date": "2024-01-08",
+      "verified": true
+    },
+    {
+      "id": "review-3",
+      "author": {
+        "name": "David Kim",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=50&h=50&fit=crop&crop=face",
+        "verified": false
+      },
+      "rating": 4,
+      "title": "Great content, could use more advanced topics",
+      "content": "The course covers all the basics really well. I wish there was more content on advanced React patterns and performance optimization, but overall it's a solid foundation course.",
+      "helpful": 67,
+      "date": "2024-01-05",
+      "verified": false
+    }
+  ],
+  "frequentlyBoughtTogether": [
+    {
+      "id": "javascript-advanced",
+      "title": "Advanced JavaScript: Modern ES6+ Features",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=200&h=120&fit=crop",
+      "discount": 20
+    },
+    {
+      "id": "react-complete",
+      "title": "React Complete Guide with Hooks and Redux",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=200&h=120&fit=crop",
+      "discount": 15
+    },
+    {
+      "id": "node-express",
+      "title": "Node.js and Express.js Backend Development",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=200&h=120&fit=crop",
+      "discount": 25
+    }
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=450&fit=crop",
+  "previewVideo": "https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4",
+  "previewVideoPoster": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=450&fit=crop"
+}

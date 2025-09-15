@@ -1,0 +1,152 @@
+{
+  "id": "web-development-complete-guide",
+  "title": "The Complete Web Development Bootcamp 2024",
+  "instructor": "Sarah Chen",
+  "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=225&fit=crop",
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Introduction to Web Development",
+      "isExpanded": true,
+      "totalDuration": 1800,
+      "completedLectures": 2,
+      "lectures": [
+        {
+          "id": "lecture-1",
+          "title": "Welcome to the Course",
+          "duration": 300,
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=225&fit=crop",
+          "description": "Get an overview of what you'll learn in this comprehensive web development course.",
+          "isPreview": true,
+          "isCompleted": true,
+          "watchedDuration": 300,
+          "lastWatchedAt": "2024-01-20T14:45:00Z"
+        },
+        {
+          "id": "lecture-2",
+          "title": "Setting Up Your Development Environment",
+          "duration": 600,
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=225&fit=crop",
+          "description": "Learn how to set up VS Code, Node.js, and essential development tools.",
+          "isPreview": false,
+          "isCompleted": true,
+          "watchedDuration": 600,
+          "lastWatchedAt": "2024-01-20T15:30:00Z"
+        },
+        {
+          "id": "lecture-3",
+          "title": "Understanding HTML Fundamentals",
+          "duration": 900,
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=400&h=225&fit=crop",
+          "description": "Master the basics of HTML structure, tags, and semantic markup.",
+          "isPreview": false,
+          "isCompleted": false,
+          "watchedDuration": 450,
+          "lastWatchedAt": "2024-01-20T16:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "CSS3 Styling and Layout",
+      "isExpanded": false,
+      "totalDuration": 2400,
+      "completedLectures": 0,
+      "lectures": [
+        {
+          "id": "lecture-4",
+          "title": "CSS Basics and Selectors",
+          "duration": 720,
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=225&fit=crop",
+          "description": "Learn CSS selectors, properties, and the box model.",
+          "isPreview": false,
+          "isCompleted": false,
+          "watchedDuration": 0
+        },
+        {
+          "id": "lecture-5",
+          "title": "CSS Flexbox Layout",
+          "duration": 900,
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=400&h=225&fit=crop",
+          "description": "Master modern CSS layout with Flexbox.",
+          "isPreview": false,
+          "isCompleted": false,
+          "watchedDuration": 0
+        },
+        {
+          "id": "lecture-6",
+          "title": "CSS Grid Layout",
+          "duration": 780,
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=225&fit=crop",
+          "description": "Create complex layouts with CSS Grid.",
+          "isPreview": false,
+          "isCompleted": false,
+          "watchedDuration": 0
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "JavaScript Fundamentals",
+      "isExpanded": false,
+      "totalDuration": 3600,
+      "completedLectures": 0,
+      "lectures": [
+        {
+          "id": "lecture-7",
+          "title": "JavaScript Variables and Data Types",
+          "duration": 600,
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=400&h=225&fit=crop",
+          "description": "Learn about variables, data types, and basic JavaScript syntax.",
+          "isPreview": false,
+          "isCompleted": false,
+          "watchedDuration": 0
+        },
+        {
+          "id": "lecture-8",
+          "title": "Functions and Scope",
+          "duration": 900,
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=225&fit=crop",
+          "description": "Understand functions, scope, and closures in JavaScript.",
+          "isPreview": false,
+          "isCompleted": false,
+          "watchedDuration": 0
+        },
+        {
+          "id": "lecture-9",
+          "title": "DOM Manipulation",
+          "duration": 1200,
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=400&h=225&fit=crop",
+          "description": "Learn how to interact with the DOM using JavaScript.",
+          "isPreview": false,
+          "isCompleted": false,
+          "watchedDuration": 0
+        },
+        {
+          "id": "lecture-10",
+          "title": "Event Handling",
+          "duration": 900,
+          "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=225&fit=crop",
+          "description": "Handle user interactions with event listeners.",
+          "isPreview": false,
+          "isCompleted": false,
+          "watchedDuration": 0
+        }
+      ]
+    }
+  ],
+  "totalDuration": 7800,
+  "totalLectures": 10,
+  "completedLectures": 2,
+  "progress": 20
+}

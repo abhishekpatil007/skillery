@@ -1,0 +1,72 @@
+[
+  {
+    "id": "rec-1",
+    "courseId": "javascript-advanced",
+    "title": "Advanced JavaScript: Modern ES6+ Features",
+    "instructor": "Sarah Chen",
+    "thumbnail": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=400&h=225&fit=crop",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "rating": 4.7,
+    "studentsCount": 45000,
+    "price": 49.99,
+    "reason": "Based on your interest in Web Development",
+    "matchPercentage": 95
+  },
+  {
+    "id": "rec-2",
+    "courseId": "mongodb-database",
+    "title": "MongoDB Complete Developer Guide",
+    "instructor": "David Wilson",
+    "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=225&fit=crop",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "rating": 4.6,
+    "studentsCount": 32000,
+    "price": 59.99,
+    "reason": "Complements your Node.js course",
+    "matchPercentage": 88
+  },
+  {
+    "id": "rec-3",
+    "courseId": "figma-design-system",
+    "title": "Figma Design System Masterclass",
+    "instructor": "Alex Kim",
+    "thumbnail": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=400&h=225&fit=crop",
+    "category": "Design",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "studentsCount": 28000,
+    "price": 39.99,
+    "reason": "Continue your design learning journey",
+    "matchPercentage": 82
+  },
+  {
+    "id": "rec-4",
+    "courseId": "python-automation",
+    "title": "Python Automation and Scripting",
+    "instructor": "Dr. Emily Rodriguez",
+    "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=225&fit=crop",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "rating": 4.5,
+    "studentsCount": 25000,
+    "price": 44.99,
+    "reason": "Build on your Python data science skills",
+    "matchPercentage": 90
+  },
+  {
+    "id": "rec-5",
+    "courseId": "typescript-advanced",
+    "title": "TypeScript Advanced Patterns and Best Practices",
+    "instructor": "Mike Johnson",
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=225&fit=crop",
+    "category": "Web Development",
+    "level": "Advanced",
+    "rating": 4.9,
+    "studentsCount": 18000,
+    "price": 69.99,
+    "reason": "Perfect next step after React",
+    "matchPercentage": 92
+  }
+]

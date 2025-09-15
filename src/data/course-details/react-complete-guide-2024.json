@@ -1,0 +1,149 @@
+{
+  "id": "react-complete-guide-2024",
+  "slug": "react-complete-guide-2024",
+  "title": "Complete React Developer Course 2024",
+  "subtitle": "Master React 18+ with TypeScript, Next.js, Redux Toolkit, and modern development practices",
+  "instructor": {
+    "id": "sarah-johnson",
+    "name": "Sarah Johnson",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+    "bio": "Sarah is a Senior Frontend Engineer at Google with 8+ years of experience building large-scale React applications. She has contributed to open-source projects and taught over 100,000 students worldwide.",
+    "rating": 4.8,
+    "studentsCount": 89247,
+    "coursesCount": 12,
+    "socials": {
+      "twitter": "https://twitter.com/sarahcodes",
+      "linkedin": "https://linkedin.com/in/sarah-johnson-dev",
+      "github": "https://github.com/sarahjohnson"
+    }
+  },
+  "rating": 4.8,
+  "ratingCount": 89247,
+  "studentsCount": 89247,
+  "price": {
+    "current": 899,
+    "original": 4499,
+    "currency": "USD"
+  },
+  "lastUpdated": "2024-01-15",
+  "language": "English",
+  "hasSubtitles": true,
+  "hasCertificate": true,
+  "level": "Intermediate",
+  "duration": "42.5 hours",
+  "lectures": 285,
+  "previewVideo": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "previewVideoPoster": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=800&h=450&fit=crop&crop=center",
+  "whatYouWillLearn": [
+    "Build modern React applications with React 18+ features",
+    "Master React Hooks including useState, useEffect, useContext, and custom hooks",
+    "Implement state management with Redux Toolkit and Context API",
+    "Create responsive UIs with styled-components and CSS modules",
+    "Build full-stack applications with Next.js 14 and App Router",
+    "Implement authentication and authorization in React apps",
+    "Test React components with Jest and React Testing Library",
+    "Deploy React applications to production with Vercel and Netlify",
+    "Optimize React performance with React.memo, useMemo, and useCallback",
+    "Work with APIs and handle asynchronous operations",
+    "Build reusable component libraries with TypeScript",
+    "Implement advanced patterns like render props and compound components"
+  ],
+  "includes": {
+    "hours": 42.5,
+    "articles": 15,
+    "resources": 25,
+    "lifetimeAccess": true,
+    "certificate": true,
+    "mobileAccess": true,
+    "assignments": 12
+  },
+  "requirements": [
+    "Basic understanding of HTML, CSS, and JavaScript",
+    "Familiarity with ES6+ JavaScript features",
+    "A computer with internet connection",
+    "Node.js installed (we'll show you how)",
+    "Basic command line knowledge is helpful but not required"
+  ],
+  "description": "# Complete React Developer Course 2024\n\n## Why Learn React?\n\nReact is the most popular frontend library in the world, used by companies like Facebook, Netflix, Instagram, and Airbnb. This comprehensive course will take you from React beginner to advanced developer.\n\n## What Makes This Course Special?\n\n- **Latest React 18+ Features**: Learn Concurrent Features, Suspense, and Server Components\n- **TypeScript Integration**: Build type-safe applications from day one\n- **Real-World Projects**: Build 5+ complete applications including an e-commerce site\n- **Modern Development**: Use the latest tools and best practices\n- **Production Ready**: Deploy applications to real hosting platforms\n\n## Course Projects\n\n1. **Todo Application**: Master React basics with hooks and state management\n2. **Weather App**: Work with APIs and handle async operations\n3. **E-commerce Platform**: Full-featured shopping cart with authentication\n4. **Social Media Dashboard**: Complex state management with Redux Toolkit\n5. **Portfolio Website**: Next.js with SSR and dynamic routing\n\n## Who This Course Is For\n\n- Developers wanting to learn React from scratch\n- Frontend developers looking to advance their React skills\n- Anyone interested in modern web development\n- Students preparing for React developer interviews\n\n## What You'll Build\n\nBy the end of this course, you'll have built multiple production-ready applications and have the confidence to tackle any React project.",
+  "curriculum": {
+    "totalSections": 12,
+    "totalLectures": 285,
+    "totalDuration": 42.5,
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Getting Started with React",
+        "lectures": [
+          {"id": "lecture-1-1", "title": "Course Introduction and What We'll Build", "duration": 480, "isPreview": true},
+          {"id": "lecture-1-2", "title": "What is React and Why Use It?", "duration": 720, "isPreview": true},
+          {"id": "lecture-1-3", "title": "Setting Up the Development Environment", "duration": 900, "isPreview": false},
+          {"id": "lecture-1-4", "title": "Creating Your First React App", "duration": 1200, "isPreview": false},
+          {"id": "lecture-1-5", "title": "Understanding JSX and Components", "duration": 1080, "isPreview": false},
+          {"id": "lecture-1-6", "title": "Props and Component Communication", "duration": 1320, "isPreview": false}
+        ]
+      },
+      {
+        "id": "section-2", 
+        "title": "React Fundamentals",
+        "lectures": [
+          {"id": "lecture-2-1", "title": "Understanding State and useState Hook", "duration": 1440, "isPreview": false},
+          {"id": "lecture-2-2", "title": "Event Handling in React", "duration": 960, "isPreview": false},
+          {"id": "lecture-2-3", "title": "Conditional Rendering Techniques", "duration": 840, "isPreview": false},
+          {"id": "lecture-2-4", "title": "Lists and Keys in React", "duration": 1080, "isPreview": false},
+          {"id": "lecture-2-5", "title": "Forms and Controlled Components", "duration": 1560, "isPreview": false},
+          {"id": "lecture-2-6", "title": "Project: Building a Todo Application", "duration": 2400, "isPreview": false}
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "Advanced React Hooks",
+        "lectures": [
+          {"id": "lecture-3-1", "title": "useEffect Hook Deep Dive", "duration": 1800, "isPreview": false},
+          {"id": "lecture-3-2", "title": "useContext for State Management", "duration": 1440, "isPreview": false},
+          {"id": "lecture-3-3", "title": "useReducer for Complex State", "duration": 1680, "isPreview": false},
+          {"id": "lecture-3-4", "title": "useMemo and useCallback Optimization", "duration": 1200, "isPreview": false},
+          {"id": "lecture-3-5", "title": "Custom Hooks Creation", "duration": 1560, "isPreview": false},
+          {"id": "lecture-3-6", "title": "useRef and DOM Manipulation", "duration": 960, "isPreview": false}
+        ]
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "id": "review-1",
+      "userId": "user-1",
+      "userName": "Michael Thompson",
+      "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+      "rating": 5,
+      "title": "Excellent course for React beginners and intermediates",
+      "content": "This course is absolutely fantastic! Sarah explains complex concepts in a very clear and understandable way. The projects are practical and really help solidify the learning. I went from knowing nothing about React to building my own applications. Highly recommended!",
+      "createdAt": "2024-01-10T10:30:00Z",
+      "helpful": 45,
+      "verified": true
+    },
+    {
+      "id": "review-2", 
+      "userId": "user-2",
+      "userName": "Lisa Chen",
+      "userAvatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      "rating": 5,
+      "title": "Best React course I've taken",
+      "content": "I've taken several React courses before, but this one is by far the best. The content is up-to-date with React 18, and the TypeScript integration is seamless. The instructor's teaching style is engaging and the pace is perfect.",
+      "createdAt": "2024-01-08T14:22:00Z", 
+      "helpful": 32,
+      "verified": true
+    },
+    {
+      "id": "review-3",
+      "userId": "user-3", 
+      "userName": "James Wilson",
+      "userAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+      "rating": 4,
+      "title": "Great content, could use more advanced topics",
+      "content": "Really solid course with excellent fundamentals. The projects are well-designed and the explanations are clear. I would have liked to see more advanced patterns and performance optimization techniques, but overall very satisfied.",
+      "createdAt": "2024-01-05T09:15:00Z",
+      "helpful": 28,
+      "verified": true
+    }
+  ]
+}

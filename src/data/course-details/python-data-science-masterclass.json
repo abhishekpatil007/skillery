@@ -1,0 +1,145 @@
+{
+  "id": "python-data-science-masterclass",
+  "slug": "python-data-science-masterclass",
+  "title": "Python Data Science Masterclass",
+  "subtitle": "Complete guide to data analysis, machine learning, and visualization with Python",
+  "instructor": {
+    "id": "dr-michael-chen",
+    "name": "Dr. Michael Chen",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "bio": "Dr. Chen is a Lead Data Scientist at Microsoft with a PhD in Machine Learning from Stanford. He has published 50+ research papers and has been teaching data science for over 10 years.",
+    "rating": 4.9,
+    "studentsCount": 67892,
+    "coursesCount": 8,
+    "socials": {
+      "twitter": "https://twitter.com/drchen_data",
+      "linkedin": "https://linkedin.com/in/michael-chen-phd",
+      "github": "https://github.com/drmichaelchen"
+    }
+  },
+  "rating": 4.9,
+  "ratingCount": 67892,
+  "studentsCount": 67892,
+  "price": {
+    "current": 799,
+    "original": 4299,
+    "currency": "USD"
+  },
+  "lastUpdated": "2024-01-12",
+  "language": "English",
+  "hasSubtitles": true,
+  "hasCertificate": true,
+  "level": "Beginner",
+  "duration": "38 hours",
+  "lectures": 198,
+  "previewVideo": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "previewVideoPoster": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop&crop=center",
+  "whatYouWillLearn": [
+    "Master Python programming fundamentals for data science",
+    "Work with NumPy for numerical computing and array operations",
+    "Analyze and manipulate data with pandas DataFrames",
+    "Create stunning visualizations with Matplotlib and Seaborn",
+    "Build machine learning models with scikit-learn",
+    "Implement deep learning with TensorFlow and Keras",
+    "Work with real-world datasets and handle missing data",
+    "Perform statistical analysis and hypothesis testing",
+    "Build and deploy machine learning pipelines",
+    "Create interactive dashboards with Plotly and Streamlit",
+    "Handle big data with Dask and parallel computing",
+    "Master data cleaning and preprocessing techniques"
+  ],
+  "includes": {
+    "hours": 38.0,
+    "articles": 20,
+    "resources": 35,
+    "lifetimeAccess": true,
+    "certificate": true,
+    "mobileAccess": true,
+    "assignments": 15
+  },
+  "requirements": [
+    "Basic programming knowledge (any language)",
+    "High school level mathematics",
+    "A computer with Python installed (we'll show you how)",
+    "Willingness to learn and practice",
+    "No prior data science experience required"
+  ],
+  "description": "# Python Data Science Masterclass\n\n## Transform Your Career with Data Science\n\nData Science is one of the hottest career fields in tech, with average salaries exceeding $120,000. This comprehensive course will take you from complete beginner to job-ready data scientist.\n\n## What Makes This Course Special?\n\n- **Complete Learning Path**: From Python basics to advanced machine learning\n- **Real-World Projects**: Work with actual datasets from companies like Netflix and Uber\n- **Industry Tools**: Learn the exact tools used by data scientists at FAANG companies\n- **Career Support**: Resume templates, interview prep, and job search strategies\n- **Lifetime Updates**: Course content updated regularly with new techniques\n\n## Course Projects\n\n1. **Sales Analysis Dashboard**: Analyze e-commerce data and create executive reports\n2. **Movie Recommendation System**: Build a Netflix-style recommendation engine\n3. **Stock Price Predictor**: Use machine learning to predict market movements\n4. **Customer Segmentation**: Implement clustering algorithms for marketing insights\n5. **Sentiment Analysis Tool**: Analyze social media sentiment with NLP\n\n## Career Outcomes\n\nOur graduates work at:\n- Google, Amazon, Microsoft, Meta\n- Netflix, Spotify, Uber, Airbnb\n- Goldman Sachs, JPMorgan, Bank of America\n- Startups and consulting firms worldwide\n\n## Why Choose This Course?\n\n✅ **Beginner-Friendly**: No prior experience required\n✅ **Hands-On Learning**: 15+ real-world projects\n✅ **Industry-Relevant**: Curriculum designed with hiring managers\n✅ **Career Support**: Job placement assistance included\n✅ **Community**: Join 67,000+ fellow learners",
+  "curriculum": {
+    "totalSections": 10,
+    "totalLectures": 198,
+    "totalDuration": 38.0,
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Python Fundamentals for Data Science",
+        "lectures": [
+          {"id": "lecture-1-1", "title": "Course Overview and Learning Path", "duration": 600, "isPreview": true},
+          {"id": "lecture-1-2", "title": "Setting Up Python and Jupyter Notebooks", "duration": 900, "isPreview": true},
+          {"id": "lecture-1-3", "title": "Python Syntax and Data Types", "duration": 1200, "isPreview": false},
+          {"id": "lecture-1-4", "title": "Control Flow and Functions", "duration": 1440, "isPreview": false},
+          {"id": "lecture-1-5", "title": "Object-Oriented Programming Basics", "duration": 1080, "isPreview": false}
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "NumPy for Numerical Computing",
+        "lectures": [
+          {"id": "lecture-2-1", "title": "Introduction to NumPy Arrays", "duration": 1200, "isPreview": false},
+          {"id": "lecture-2-2", "title": "Array Operations and Broadcasting", "duration": 1440, "isPreview": false},
+          {"id": "lecture-2-3", "title": "Mathematical Functions and Statistics", "duration": 1080, "isPreview": false},
+          {"id": "lecture-2-4", "title": "Working with Multi-dimensional Arrays", "duration": 1320, "isPreview": false}
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "Data Manipulation with Pandas",
+        "lectures": [
+          {"id": "lecture-3-1", "title": "Introduction to DataFrames and Series", "duration": 1560, "isPreview": false},
+          {"id": "lecture-3-2", "title": "Data Loading and Inspection", "duration": 1200, "isPreview": false},
+          {"id": "lecture-3-3", "title": "Data Cleaning and Preprocessing", "duration": 1800, "isPreview": false},
+          {"id": "lecture-3-4", "title": "Grouping and Aggregation", "duration": 1440, "isPreview": false},
+          {"id": "lecture-3-5", "title": "Merging and Joining DataFrames", "duration": 1320, "isPreview": false}
+        ]
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "id": "review-1",
+      "userId": "user-1",
+      "userName": "Emily Rodriguez",
+      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+      "rating": 5,
+      "title": "Life-changing course!",
+      "content": "I went from knowing nothing about data science to landing a job as a Data Analyst at a Fortune 500 company. Dr. Chen's teaching is exceptional, and the projects are incredibly practical. This course literally changed my life!",
+      "createdAt": "2024-01-09T16:45:00Z",
+      "helpful": 67,
+      "verified": true
+    },
+    {
+      "id": "review-2",
+      "userId": "user-2", 
+      "userName": "Carlos Martinez",
+      "userAvatar": "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?w=150&h=150&fit=crop&crop=face",
+      "rating": 5,
+      "title": "Best data science course on the internet",
+      "content": "I've taken multiple data science courses, and this is by far the best. The content is comprehensive, up-to-date, and the instructor explains everything clearly. The real-world projects are what set this course apart.",
+      "createdAt": "2024-01-07T11:20:00Z",
+      "helpful": 52,
+      "verified": true
+    },
+    {
+      "id": "review-3",
+      "userId": "user-3",
+      "userName": "Priya Patel", 
+      "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=face",
+      "rating": 5,
+      "title": "Perfect for beginners",
+      "content": "As someone with no programming background, I was nervous about starting data science. Dr. Chen makes everything so approachable and easy to understand. The step-by-step approach is perfect for beginners.",
+      "createdAt": "2024-01-04T13:30:00Z",
+      "helpful": 41,
+      "verified": true
+    }
+  ]
+}
