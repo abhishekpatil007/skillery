@@ -1,8 +1,5 @@
 # 🎯 Skillery - Premium Learning Platform
 
-A modern, full-featured learning platform built with Next.js 15, React 19, and TypeScript. Features a beautiful UI, comprehensive course management, video player, and shopping experience.
-
-![Skillery Platform](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=400&fit=crop&crop=center)
 
 ## ✨ Features
 
@@ -158,39 +155,3 @@ npm run lint         # Run ESLint
 - **Linting**: ESLint + Prettier configuration
 - **Component Library**: shadcn/ui components
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-```bash
-npm run build
-# Deploy to Vercel
-```
-
-### Docker
-```bash
-# Build Docker image
-docker build -t skillery-frontend .
-
-# Run container
-docker run -p 3000:3000 skillery-frontend
-```
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📞 Support
-
-For questions or support, please open an issue on GitHub.
-
----
-
-**Built with ❤️ for the learning community**
